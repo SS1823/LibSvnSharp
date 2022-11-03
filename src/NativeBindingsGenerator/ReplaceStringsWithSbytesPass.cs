@@ -1,6 +1,7 @@
 ﻿using CppSharp.AST;
 using CppSharp.AST.Extensions;
 using CppSharp.Passes;
+using Type = CppSharp.AST.Type;
 
 namespace NativeBindingsGenerator
 {
